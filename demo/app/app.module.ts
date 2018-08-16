@@ -50,6 +50,7 @@ import {
   TsCardModule,
   TsChartModule,
   TsCheckboxModule,
+  TsChipModule,
   TsConfirmationModule,
   TsCopyModule,
   TsCSVEntryModule,
@@ -97,6 +98,7 @@ import { ButtonComponent } from './components/button/button.component';
 import { CardComponent } from './components/card/card.component';
 import { ChartComponent } from './components/chart/chart.component';
 import { CheckboxComponent } from './components/checkbox/checkbox.component';
+import { ChipComponent } from './components/chip/chip.component';
 import { ConfirmationComponent } from './components/confirmation/confirmation.component';
 import { CopyComponent } from './components/copy/copy.component';
 import { CSVEntryComponent } from './components/csv-entry/csv-entry.component';
@@ -150,6 +152,7 @@ import { ValidationComponent } from './components/validation/validation.componen
     TsCardModule,
     TsChartModule,
     TsCheckboxModule,
+    TsChipModule,
     TsConfirmationModule,
     TsCopyModule,
     TsCSVEntryModule,
@@ -199,6 +202,7 @@ import { ValidationComponent } from './components/validation/validation.componen
     CardComponent,
     ChartComponent,
     CheckboxComponent,
+    ChipComponent,
     ConfirmationComponent,
     CopyComponent,
     CSVEntryComponent,

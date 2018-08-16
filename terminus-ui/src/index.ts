@@ -5,6 +5,7 @@ export * from './button/button.module';
 export * from './card/card.module';
 export * from './chart/chart.module';
 export * from './checkbox/checkbox.module';
+export * from './chip/chip.module';
 export * from './confirmation/confirmation.module';
 export * from './copy/copy.module';
 export * from './csv-entry/csv-entry.module';

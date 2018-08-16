@@ -7,6 +7,7 @@ import { ButtonComponent } from './button/button.component';
 import { CardComponent } from './card/card.component';
 import { ChartComponent } from './chart/chart.component';
 import { CheckboxComponent } from './checkbox/checkbox.component';
+import { ChipComponent } from './chip/chip.component';
 import { ConfirmationComponent } from './confirmation/confirmation.component';
 import { CopyComponent } from './copy/copy.component';
 import { CSVEntryComponent } from './csv-entry/csv-entry.component';
@@ -87,6 +88,13 @@ export const componentsList: Routes = [
     component: CheckboxComponent,
     data: {
       name: 'Checkbox',
+    },
+  },
+  {
+    path: 'chip',
+    component: ChipComponent,
+    data: {
+      name: 'Chip',
     },
   },
   {

@@ -8,6 +8,7 @@ import { TsButtonModule } from './button/button.module';
 import { TsCardModule } from './card/card.module';
 import { TsChartModule } from './chart/chart.module';
 import { TsCheckboxModule } from './checkbox/checkbox.module';
+import { TsChipModule } from './chip/chip.module';
 import { TsConfirmationModule } from './confirmation/confirmation.module';
 import { TsCopyModule } from './copy/copy.module';
 import { TsCSVEntryModule } from './csv-entry/csv-entry.module';
@@ -49,6 +50,7 @@ import { TsReactiveFormBaseComponent } from './utilities/reactive-form-base.comp
     TsCardModule,
     TsChartModule,
     TsCheckboxModule,
+    TsChipModule,
     TsConfirmationModule,
     TsCopyModule,
     TsCSVEntryModule,
@@ -92,6 +94,7 @@ import { TsReactiveFormBaseComponent } from './utilities/reactive-form-base.comp
     TsCardModule,
     TsChartModule,
     TsCheckboxModule,
+    TsChipModule,
     TsConfirmationModule,
     TsCopyModule,
     TsCSVEntryModule,

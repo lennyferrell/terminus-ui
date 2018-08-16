@@ -1,0 +1,21 @@
+//
+// @component
+//  Chip
+// @description
+//  TODO:
+//    1. Add description
+//    2. Verify the 'c-' prefix should be used
+//    3. Add needed styles
+//
+.ts-chip {
+  display: inline-block;
+
+  // Top level styles belong here
+  .c-chip {
+    //
+  }
+}
+
+.c-chip {
+  // Nested classes belong here
+}

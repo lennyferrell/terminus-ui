@@ -22,6 +22,7 @@ module.exports = {
     {name: 'Card'},
     {name: 'Chart'},
     {name: 'Checkbox'},
+    {name: 'Chip'},
     {name: 'Confirmation'},
     {name: 'Copy'},
     {name: 'CSVEntry'},
